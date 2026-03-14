@@ -1,0 +1,3 @@
+Hello my name is Abhijay Anoop
+I am a software developer transitioning into AI Engineering.
+Coding is fun.
